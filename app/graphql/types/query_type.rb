@@ -10,6 +10,7 @@ module Types
 
     def messages
       Message.all
+      # test
     end
   end
 end
